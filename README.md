@@ -1,1 +1,2 @@
-https://github.com/shiequinn/booki/
+https://shiequinn.github.io/booki/
+
